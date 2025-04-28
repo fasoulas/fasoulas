@@ -34,7 +34,7 @@ Experienced in CRUD, event-driven / **event-sourced** and **CQRS** architectures
 - **Frameworks**: Terraform, Serverless, SAM
 
 ## 📚 Publications 📚
-- *Architecture-Driven Service Discovery for Service Centric Systems. Int. J. Web Serv. Res. 4(2): 82-113 (2007)
+- Architecture-Driven Service Discovery for Service Centric Systems. Int. J. Web Serv. Res. 4(2): 82-113 (2007)
     
 ## 📨 Contact Me 📨
 - **LinkedIn**: [linkedin.com/in/fasoulas](https://linkedin.com/in/fasoulas)
