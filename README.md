@@ -6,7 +6,7 @@ Experienced in CRUD, event-driven / event-sourced and CQRS architectures but for
 ## Career Highlights
 - Delivered in 7 months a rewrite of a 15 year old bespoke B2B E-commerce platform in Java / Microsercvices / Kubernetes stack in a program spanning a headcount of ~100 engineers across multiple teams in US and UK
 - Solution Architect for numerous hugh profile global web sites such as Aston Martin, Manchester City and GSK
-- Transitioned a content/personalisation/notification engine from monolitsh to microservices; that engines powers content apps for the largest MVNOs in the US for an audience of more that 30M users
+- Transitioned a content/personalisation/notification engine from monolitsh to microservices; that engine powers content apps for the largest MVNOs in the US for an audience of more that 30M users
 - Designed and brought to market -following a cell-based architecture- a platfrom to showcse BBC Worldwide content to B2B delegates in a fully redundant, high availability closed system
 - Delivered "exotic" integrations very early in his carrer, developer a bespoke APNS internal SaaS service (Nike) and integrated a nuclear particle accelerator control system with Excel (CERN) 
 
