@@ -11,18 +11,18 @@ Experienced in CRUD, event-driven / event-sourced and CQRS architectures but for
 - Delivered "exotic" integrations very early in his carrer, developer a bespoke APNS internal SaaS service (Nike) and integrated a nuclear particle accelerator control system with Excel (CERN) 
 
 ## Tech Stack (in order of experience)
-### ** Backend Development **
-- ** Languages **: Java, C#, Python, Go, Typescript
-- ** Frameworks **: Sprint, FastAPI
+### Backend Development
+- **Languages**: Java, C#, Python, Go, Typescript
+- **Frameworks**: Sprint, FastAPI
 
-### ** Cloud  **
-- ** Providers **: AWS, Azure, GCP
-- ** Areas **: Serverless, PaaS, IaaS
+### Cloud
+- **Providers**: AWS, Azure, GCP
+- **Areas**: Serverless, PaaS, IaaS
  
-### ** Database Management **
-- ** Technologies **: PostgeSQL, Firebase, Mongo
+### Database Management
+- **Technologies**: PostgeSQL, Firebase, Mongo
 
-### **DevOps**
+### DevOps
 - **Platforms**: AWS, Azure, GCP, Docker, Kubernetes
 - **CI/CD**: GitHub Actions, Jenkins
 - **Frameworks**: Terraform, Serverless, SAM
