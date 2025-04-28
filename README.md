@@ -31,4 +31,4 @@ Experienced in CRUD, event-driven / event-sourced and CQRS architectures but for
 - *Architecture-Driven Service Discovery for Service Centric Systems. Int. J. Web Serv. Res. 4(2): 82-113 (2007)
     
 ## Contact Me
-- **LinkedIn**: [linkedin.com/in/fasoulass](https://linkedin.com/in/fasoulas)
+- **LinkedIn**: [linkedin.com/in/fasoulas](https://linkedin.com/in/fasoulas)
