@@ -4,7 +4,7 @@
 
 - I specialise in delivering business aligned outcomes through technology utilising **cloud native**, **microservice** based or modular **event-driven** architectures.
 
-- Experienced in CRUD, event-driven / **event-sourced** and **CQRS** architectures but foremost putting togather **product engineering teams** delivering end-to-end from **iniatives from inception to day-2 operations** and optimisation.       
+- Experienced in CRUD, event-driven / **event-sourced** and **CQRS** architectures but foremost putting together **product engineering teams** delivering end-to-end from **iniatives from inception to day-2 operations** and optimisation.       
 
 ## 💥 Career Highlights 💥
 - Delivered **in 7 months a rewrite** of a 15-year-old bespoke B2B E-commerce platform in **Java / Microsercvices / Kubernetes stack** in a program spanning a headcount of ~100 engineers across multiple teams in US and UK
