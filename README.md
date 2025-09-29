@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack 🛠️ (in order of experience)
 ### Backend Development
 - **Languages**: Java, C#, Python, Go, Rust, Typescript
-- **Frameworks**: Spring, ASP.NET core, FastAPI, Actix, Fastify
+- **Frameworks**: Spring, ASP.NET core, FastAPI, NestJS, Actix
 
 ### Mobile Development
 - **Platforms**: Android, Flutter, Apple, Hybrid
