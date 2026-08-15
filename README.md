@@ -1,6 +1,6 @@
 ## 🔎 About Vasileios (Vas) Fasoulas 🔎
 
-- Technology leader with a ~20 year career spanning development, **architecture**, **engineering management** and **executive leadership**.
+- Product & Technology leader with a ~20 year career spanning **product engineering**, **architecture**, **engineering management** and **executive leadership**.
 
 - I specialise in delivering business aligned outcomes through technology utilising **cloud native**, **microservice** based or modular **event-driven** architectures.
 
